@@ -5,4 +5,6 @@
 $ pwd
 verimqtt-docker
 $ docker image build -t example_go/echo:latest .
+$ # or
+$ docker pull takukitamura/verimqtt-docker
 ```
